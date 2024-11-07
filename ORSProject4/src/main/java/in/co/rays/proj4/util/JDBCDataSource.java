@@ -13,7 +13,7 @@ import in.co.rays.proj4.exception.ApplicationException;
  *
  * @author Shreya Shukla
  */
-public final class JDBCDataSource {
+public class JDBCDataSource {
 		/**
 		 * JDBC Database connection pool ( DCP )
 		 */
